@@ -3,10 +3,10 @@
 # BBQ Splash WebPage
 Its a responsive BBQ Splash web page built with HTML5, CSS3, CSS-flexbox.
 
-![screenshot](images/preview-BBQ.png)
+![screenshot](images/next-website-preview.png)
 
 ## [LiveDemo] 
-(https://fastidious-moonbeam-7d8d8a.netlify.app)
+(https://next-website-lime.vercel.app/)
 
 ## Built With
 
